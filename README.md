@@ -1,6 +1,13 @@
 ### Hey there 👋
 I am **Ashutosh**, from India.
 
+<!--<a href="https://github.com/ashutosh-3601/">
+  <img align="right" src="https://profile-counter.glitch.me/Ashutosh-3601/count.svg" alt="Ashutosh Contb" />
+</a>
+<a href="https://github.com/ashutosh-3601">
+  <img align="right" src="https://badges.pufler.dev/years/Ashutosh-3601/" alt="TopLang"/>
+</a>-->
+
 *I mostly use following languages:*  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
