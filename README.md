@@ -2,7 +2,7 @@
 I am **Ashutosh**, from India.
 
 <!--<a href="https://github.com/ashutosh-3601/">
-  <img align="right" src="https://profile-counter.glitch.me/Ashutosh-3601/count.svg" alt="Ashutosh Contb" />
+  <img align="right" src="" alt="Ashutosh Contb" />
 </a>
 <a href="https://github.com/ashutosh-3601">
   <img align="right" src="https://badges.pufler.dev/years/Ashutosh-3601/" alt="TopLang"/>
@@ -26,3 +26,6 @@ I am **Ashutosh**, from India.
 --------------------------------------------
 
 *Contact me @ `Ashutosh#1121` over [Discord](https://discord.com)*
+
+<code>Total Vistors</code>
+![Profile Visits](https://profile-counter.glitch.me/Ashutosh-3601/count.svg)
