@@ -17,16 +17,17 @@ I am **Ashutosh**, from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 <a href="https://github.com/ashutosh-3601/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-3601&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Ashutosh Contb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-3601&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Ashutosh Contb" />
 </a>
 <a href="https://github.com/ashutosh-3601">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-3601&theme=radical" alt="TopLang"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-3601&layout=compact&theme=midnight-purple" alt="TopLang"/>
 </a>
 
 --------------------------------------------
 
-*Contact me @ `Ashutosh#1121` over [Discord](https://discord.com)*
+*Contact me @ `Ashutosh#1121` over [Discord](https://discord.com/channels/@me)*
 
 <code>Total Vistors</code>
 <br>
-![Profile Visits](https://profile-counter.glitch.me/Ashutosh-3601/count.svg)
+<!--![Profile Visits](https://profile-counter.glitch.me/Ashutosh-3601/count.svg)-->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ashutosh-3601.Ashutosh-3601&title=Visitors)
