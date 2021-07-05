@@ -22,8 +22,9 @@ I am **Ashutosh**, from India.
 <a href="https://github.com/ashutosh-3601">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-3601&layout=compact&theme=midnight-purple" alt="TopLang"/>
 </a>
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutosh-3601&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=ashutosh-3601&theme=midnight-purple&hide_border=true" align="center"></p>
 
 --------------------------------------------
 
