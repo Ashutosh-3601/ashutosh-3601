@@ -23,6 +23,8 @@ I am **Ashutosh**, from India.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-3601&layout=compact&theme=midnight-purple" alt="TopLang"/>
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutosh-3601&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+
 --------------------------------------------
 
 *Contact me @ `Ashutosh#1121` over [Discord](https://discord.com/channels/@me)*
