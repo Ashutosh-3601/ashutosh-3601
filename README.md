@@ -17,14 +17,14 @@ I am **Ashutosh**, from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 <a href="https://github.com/ashutosh-3601/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-3601&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Ashutosh Contb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-3601&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Ashutosh Contb" />
 </a>
 <a href="https://github.com/ashutosh-3601">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-3601&layout=compact&theme=midnight-purple" alt="TopLang"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-3601&layout=compact&theme=midnight-purple" alt="TopLang"/>
 </a>
 <br>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=ashutosh-3601&theme=midnight-purple&hide_border=true" align="center"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Ashutosh-3601&theme=midnight-purple&hide_border=true" align="center"></p>
 
 --------------------------------------------
 
