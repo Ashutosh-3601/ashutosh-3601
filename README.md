@@ -20,7 +20,7 @@ I am **Ashutosh**, from India.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-3601&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Ashutosh Contb" />
 </a>
 <a href="https://github.com/ashutosh-3601">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-3601&layout=compact&theme=midnight-purple" alt="TopLang"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-3601&layout=compact&theme=midnight-purple&langs_count=10" alt="TopLang"/>
 </a>
 <br>
 
